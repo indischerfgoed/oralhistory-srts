@@ -1,4 +1,4 @@
-ï»¿1
+1
 00:00:05,100 --> 00:00:11,580
 Uw naam, geboortedatum
 en geboorteplaats?
